@@ -1,5 +1,5 @@
-# Photo Viewer  
-> This plugin is intended to show a picture from an URL into a Photo Viewer with zoom features.
+# Cordova Image Save to Gallery  
+> This plugin is intended to download picture from an URL into IOS device.
 
 ## How to Install
 
@@ -8,17 +8,11 @@ Cordova:
 cordova plugin add com-sarriaroman-photoviewer
 ```
 
-Ionic 2:
-```bash
-$ ionic cordova plugin add com-sarriaroman-photoviewer
-$ npm install --save @ionic-native/photo-viewer
-```
-
 ### Android
-> Out of the box
+> Not implemented
 
 ### iOS
-> Out of the box
+> Available
 
 
 ### API
