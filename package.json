@@ -1,0 +1,62 @@
+{
+  "_from": "com-myma-cordova-image-save-to-gallery@^1.0.0",
+  "_id": "com-myma-cordova-image-save-to-gallery@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-VH7Yo8O2qe1ZR7hiZqtiAwsv2FLztEXsA+ksXVIBGEDiY+o5IxOrMb+9g+nGCVMxfxmID3T8GZxpGxAAZXTv2A==",
+  "_location": "/com-myma-cordova-image-save-to-gallery",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "com-myma-cordova-image-save-to-gallery@^1.0.0",
+    "name": "com-myma-cordova-image-save-to-gallery",
+    "escapedName": "com-myma-cordova-image-save-to-gallery",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/com-myma-cordova-image-save-to-gallery/-/com-myma-cordova-image-save-to-gallery-1.0.0.tgz",
+  "_shasum": "e8b2c749f031cedb32bef29dc8f9dcf49e55ccbc",
+  "_spec": "com-myma-cordova-image-save-to-gallery@^1.0.0",
+  "_where": "/Users/thangapandim/Documents/Myma/Source code/MyMA 2.0/MyMA-Mobile 2.0 ",
+  "author": {
+    "name": "Román A. Sarria"
+  },
+  "bugs": {
+    "url": "https://github.com/sarriaroman/photoviewer/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com-myma-cordova-image-save-to-gallery",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "This plugin is intended to show a picture from an URL into a Photo Viewer with zoom features.",
+  "devDependencies": {
+    "typescript": "3.2.2"
+  },
+  "homepage": "https://github.com/sarriaroman/photoviewer#readme",
+  "keywords": [
+    "cordova",
+    "CordovaImageSaveToGallery",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "com-myma-cordova-image-save-to-gallery",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarriaroman/photoviewer.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "version": "1.0.0"
+}

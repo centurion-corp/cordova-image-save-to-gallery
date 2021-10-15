@@ -1,0 +1,1 @@
+{"version":3,"file":"CordovaImageSaveToGallery.d.ts","sourceRoot":"","sources":["../source/CordovaImageSaveToGallery.ts"],"names":[],"mappings":"AACA,QAAA,IAAI,IAAI,KAA0B,CAAC;AAEnC,cAAM,yBAAyB;WAEb,eAAe,CAAC,GAAG,EAAE,MAAM,EAAE,eAAe,EAAE,GAAG,EAAE,eAAe,EAAE,GAAG;CAUxF"}
