@@ -6,7 +6,7 @@
 
 Cordova:
 ```bash
-cordova plugin add https://github.com/valwinjose007/cordova-image-save-to-gallery.git
+cordova plugin add https://github.com/centurion-corp/cordova-image-save-to-gallery.git
 ```
 
 ### Android
