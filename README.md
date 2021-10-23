@@ -1,4 +1,4 @@
-# Photo Viewer 
+# Download image from URL into IOS photo library 
 > This is an custom plugin created for MyMA.
 > This plugin is intended to download a picture from an URL into IOS Photo library..
 
